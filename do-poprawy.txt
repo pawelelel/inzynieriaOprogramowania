@@ -1,0 +1,19 @@
+- Więcej szczegółów w problemach
+- tam gdzie jest "papierowy obieg" opisać konkretnie narzędzia
+- 20 funkcji total (nie więcej)
+	 te same funkcje liczone jako jedno
+- rozpisać konkretniej w pośredniku
+- Funkcja wgląd w zamówienia (dla wszystkich użytkowników którzy mogą jej potrzebować) 
+- ew. usunąć konfigurację interfejsu
+- klient -> określenie modyfikacji
+- magazynier/klient -> wgląd w proces modyfikacji
+- Dodać użytkownika Manager?
+- magazynier -> informacje o nowych, zadaniach / zakończonych modyfikacjach, 
+	wgląd w informacje o zamówieniach?
+- klient widzi status zamówienia
+- klient -> obsługiwanie zwrotu
+- sprawdzić czy procesy są "domknięte"
+- (wymagania) elastyczność -> dodanie modułów bez
+  przerwy w systemie działania
+
+3.5/7 pkt = 50%
